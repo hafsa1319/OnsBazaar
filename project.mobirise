@@ -76,9 +76,9 @@
     },
     "gdpr": {
       "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
+      "colorLink": "#efefef",
       "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "Devam ederek bizim kabul etmiş olursunuz  <a href='https://onsbazaar.com/tr/veri-korumasi'>Veri Koruma</a>."
     },
     "PWA": {
       "enabled": true,
@@ -86,7 +86,7 @@
       "icon": "@PROJECT_PATH@/assets/images/favicon-512x512.png",
       "themeColor": "#89316b"
     },
-    "mbrsiteDomain": "3hvooxdy4v",
+    "mbrsiteDomain": "crzrvz7bmm",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
